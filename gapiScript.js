@@ -1,4 +1,4 @@
-var gapi=window.gapi=window.gapi||{};gapi._bs=new Date().getTime();(function(){/*
+var gapi=(window && (window.gapi=window.gapi))||{};gapi._bs=new Date().getTime();(function(){/*
 
   Copyright The Closure Library Authors.
   SPDX-License-Identifier: Apache-2.0
